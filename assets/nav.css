@@ -1,0 +1,42 @@
+body {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+}
+.navbar {
+  background-color: #fcf7e3;
+  border-radius: 45px;
+}
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 10px 20px;
+}
+.navbar a {
+  background-color: #f3df85;
+  color: #612406;
+  text-decoration: none;
+  padding: 15px 15px;
+  border-radius: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 15px;
+}
+.shop {
+  font-size: 2em;
+  font-weight: bold;
+  display: flex;
+}
+
+.navbar .shop {
+  color: #612406;
+}
+.logo {
+  width: 60px;
+  height: auto;
+  margin-right: 50px;
+}
