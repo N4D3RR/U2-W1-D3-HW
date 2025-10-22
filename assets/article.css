@@ -1,0 +1,16 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.article {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 50px;
+  border-radius: 30px;
+  background-color: #fcf7e3;
+  color: #612406;
+}
+h2 {
+  margin-bottom: 30px;
+}
