@@ -31,11 +31,9 @@ body {
   font-size: 2em;
   font-weight: bold;
   display: flex;
-}
-
-.navbar .shop {
   color: #612406;
 }
+
 .logo {
   width: 60px;
   height: auto;
